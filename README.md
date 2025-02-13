@@ -42,11 +42,11 @@ ___
 <ul>
  <li><a href="https://github.com/ksgavrilenko/theory">Теория тестирования</a></li>
  <li><a href="https://github.com/ksgavrilenko/design">Техники тест-дизайна</a></li>
- <li><a href="https://github.com/ksgavrilenko/documentation">Тестовая документация</a></li>
- <li><a href="https://github.com/ksgavrilenko/api">Тестирование API</a></li>
+ <li><a href="https://github.com/ksgavrilenko/web testing">Тестирование веб приложений</a></li>
+ <li><a href="https://github.com/ksgavrilenko/api testing">Тестирование API</a></li>
  <li><a href="https://github.com/ksgavrilenko/database">Работа с базами данных</a></li>
  <li><a href="https://github.com/ksgavrilenko/web">Тестирование веб-приложений</a></li>
- <li><a href="https://github.com/ksgavrilenko/mobile">Тестирование мобильных приложений</a></li>
+ <li><a href="https://github.com/ksgavrilenko/mobile testing">Тестирование мобильных приложений</a></li>
  <li><a href="https://github.com/ksgavrilenko/git_bash">Работа с git и bash</a></li>
 </ul>
 
