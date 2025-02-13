@@ -45,7 +45,7 @@ ___
  <li><a href="https://github.com/ksgavrilenko/web-testing">Тестирование веб-приложений</a></li>
  <li><a href="https://github.com/ksgavrilenko/api-testing">Тестирование API</a></li>
  <li><a href="https://github.com/ksgavrilenko/database">Работа с базами данных</a></li>
- <li><a href="https://github.com/ksgavrilenko/mobile testing">Тестирование мобильных приложений</a></li>
+ <li><a href="https://github.com/ksgavrilenko/mobile-testing">Тестирование мобильных приложений</a></li>
  <li><a href="https://github.com/ksgavrilenko/git_bash">Работа с git и bash</a></li>
 </ul>
 
