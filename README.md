@@ -9,7 +9,7 @@
 
 - 📫 Как связаться со мной: 
 [Linkedin](https://www.linkedin.com/in/ksenia-gavrilenko/) и 
-[Gmail](mailto:ksugavrilenko@gmail.com)
+[Hotmail](mailto:k.gavrilenko@hotmail.com)
 
 ___
 
