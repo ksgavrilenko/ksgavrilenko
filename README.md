@@ -10,7 +10,7 @@ ___
 ___
 
 
-- Предлагаю ознакомитсья с моим [резюме](https://drive.google.com/file/d/1PIcvZK7gZnyAlC_mUjTKLmfMhoOOF6qv/view?usp=sharing)
+- Предлагаю ознакомитсья с моим [резюме](https://drive.google.com/file/d/10oe5N3AVTtxHVKPhKGEGYHHOoBS7-Bvb/view?usp=sharing)
 
 - 📫 Как связаться со мной: 
 [Linkedin](https://www.linkedin.com/in/ksenia-gavrilenko/) и 
