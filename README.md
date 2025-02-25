@@ -59,7 +59,7 @@ ___
 ___
 
 ### 🎓 Пройденные курсы и стажировки:
- -  [Курс Software Functional Testing от Artsiom Rusau QA Life](https://drive.google.com/file/d/1OSQgkcfjEmjZpr1OhxCbKNzcziaBvhnt/view?usp=sharing)
+ -  [Функциональное тестирование ПО. Пакет Junior+ от Артема Русова](https://drive.google.com/file/d/1OSQgkcfjEmjZpr1OhxCbKNzcziaBvhnt/view?usp=sharing)
  -  Тестирование ПО с нуля. Теория + Практика
  -  [Интерактивный курс по SQL](https://sql-academy.org/ru)
  -  Стажировка в компании ["Челзнак"](https://drive.google.com/file/d/1swgpPkwRalrAxSE2HzUvmJIrf-PkNqtx/view?usp=sharing)
