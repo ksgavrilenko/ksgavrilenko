@@ -12,7 +12,7 @@ ___
 ___
 
 
-- Предлагаю ознакомитсья с моим [резюме](https://drive.google.com/file/d/12VpfXE_3ZGIB6637eHSITNP4LDW_gGTC/view?usp=sharing)
+- Предлагаю ознакомитсья с моим [резюме](https://drive.google.com/file/d/1OI09xjkNSXqp_AvdoD3Wd0VCKxTUp3mf/view?usp=sharing)
 
 - 📫 Как связаться со мной: 
 [Linkedin](https://www.linkedin.com/in/ksenia-gavrilenko/) и 
@@ -59,7 +59,7 @@ ___
 ___
 
 ### 🎓 Пройденные курсы и стажировки:
- -  [Курс Функциональное тестирование ПО. Пакет Junior+](https://drive.google.com/file/d/1OSQgkcfjEmjZpr1OhxCbKNzcziaBvhnt/view?usp=sharing) от Артема Русова
+ -  [Курс Функциональное тестирование ПО](https://drive.google.com/file/d/1OSQgkcfjEmjZpr1OhxCbKNzcziaBvhnt/view?usp=sharing) от Артема Русова
  -  Курс Тестирование ПО с нуля. Теория + Практика
  -  [Интерактивный курс по SQL](https://sql-academy.org/ru)
  -  Стажировка в компании ["Челзнак"](https://drive.google.com/file/d/1swgpPkwRalrAxSE2HzUvmJIrf-PkNqtx/view?usp=sharing)
